@@ -1,18 +1,3 @@
-/* =========================================
-   CONFIGURAÇÕES GERAIS
-========================================= */
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-body {
-    background-color: #080808;
-    color: #ffffff;
-    font-family: Arial, Helvetica, sans-serif;
-}
 
 
 /* =========================================
@@ -267,51 +252,6 @@ input[type="time"] {
 }
 
 
-/* =========================================
-   FOOTER
-========================================= */
-
-footer {
-
-    width: 100%;
-
-    background: linear-gradient(
-        135deg,
-        #030303,
-        #111111,
-        #030303
-    );
-
-    color: #ffffff;
-
-    border-top: 2px solid #d4af37;
-
-    padding: 40px 20px;
-
-    text-align: center;
-
-    box-shadow:
-        0 -5px 20px rgba(0, 0, 0, 0.6);
-}
-
-
-/* Texto do footer */
-
-footer p {
-    color: #999999;
-
-    margin: 5px 0;
-}
-
-
-/* Títulos do footer */
-
-footer h3,
-footer h4 {
-    color: #d4af37;
-
-    font-weight: bold;
-}
 
 
 /* =========================================
