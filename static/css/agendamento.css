@@ -7,7 +7,9 @@ body {
 /* =========================================
    HEADER
 ========================================= */
-
+.container .agendamento{
+    background-color: #8a8d60;
+}
 header {
     width: 100%;
     background: linear-gradient(

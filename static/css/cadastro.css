@@ -1,6 +1,7 @@
 body {
-    background-color:#d4af37 ;
-    color: white;
+    background: linear-gradient(135deg, var(--dourado), #b89428);
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .cadastro {
