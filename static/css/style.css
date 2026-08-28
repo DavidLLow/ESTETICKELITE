@@ -879,9 +879,9 @@ main .text-center p {
 
     font-weight: bold;
 
-    margin-bottom: 15px;
+    margin-bottom: 1px;
 
-    min-height: 58px;
+    min-height: 40px;
 
     display: flex;
 
@@ -938,6 +938,10 @@ main .text-center p {
 }
 
 
+.card-servico .card-text{
+    min-height: 40px;
+    margin-bottom: 0;
+}
 /* =====================================================
    BOTÃO PRINCIPAL
 ===================================================== */
