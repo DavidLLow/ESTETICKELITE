@@ -1,17 +1,19 @@
 body {
-    background-color: #080808;
+    background-color:#d4af37 ;
     color: white;
 }
 
 .cadastro {
     max-width: 700px;
     margin: 60px auto;
-    background-color: #111111;
+    background-color: #000000;
     padding: 40px;
     border-radius: 12px;
     border: 1px solid #292929;
 }
-
+main{
+    background-color: #d4af37;
+}
 .cadastro h1 {
     color: #d4af37;
     font-weight: bold;
@@ -22,7 +24,7 @@ body {
 }
 
 .form-control {
-    background-color: #1c1c1c;
+    background-color: #000000;
     border: 1px solid #333333;
     color: white;
 }
@@ -35,14 +37,14 @@ body {
 }
 
 .btn-estetick {
-    background-color: #d4af37;
+    background-color: #ecebe7;
     border-color: #d4af37;
-    color: #080808;
+    color: #ffffff;
     font-weight: bold;
 }
 
 .btn-estetick:hover {
     background-color: white;
     border-color: white;
-    color: #080808;
+    color: #000000;
 }

@@ -266,7 +266,7 @@ body {
     background:
         linear-gradient(
             90deg,
-            var(--dourado),
+            var(--preto-card),
             var(--dourado-claro)
         );
 
